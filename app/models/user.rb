@@ -8,5 +8,5 @@ class User < ActiveRecord::Base
          	is_admin
          	
          end
-         mount_uploader :photo, PhotoUploader
+         
 end
